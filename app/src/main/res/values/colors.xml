@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#ba0505</color>
-    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimary">#D50000</color>
+    <color name="colorPrimaryDark">#D50000</color>
+    <color name="colorAccent">#D50000</color>
+    <color name="coklat">#E53935</color>
+    <color name="abu_abu">#bfbfbf</color>
+    <color name="putih">#fff</color>
+    <color name="hitam">#000000</color>
+    <color name="Link_biru">#0091EA</color>
+    <color name="black_overlay">#66000000</color>
     <color name="welcome">#f13e3e</color>
     <color name="UTI">#ab0707</color>
+
 </resources>

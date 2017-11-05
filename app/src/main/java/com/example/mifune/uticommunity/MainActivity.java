@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         welcome.startAnimation(myanim);
         UTI.startAnimation(myanim);
 
-        final Intent intent =  new Intent(this, sigin.class);
+        final Intent intent =  new Intent(this, Login_Activity.class);
         Thread timer = new Thread() {
             public void run() {
                 try {

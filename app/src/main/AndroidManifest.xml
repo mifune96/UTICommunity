@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".sigin"></activity>
+        <activity android:name=".sigin" />
+        <activity android:name=".Login_Activity" />
+        <activity android:name=".Daftar_Activity"></activity>
     </application>
 
 </manifest>
