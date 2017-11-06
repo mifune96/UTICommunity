@@ -17,4 +17,9 @@ public class Login_Activity extends AppCompatActivity {
         Intent intent = new Intent(this, Daftar_Activity.class);
         startActivity(intent);
     }
+
+    public void klik1(View view) {
+            Intent i = new Intent(this, InfoKuliah.class);
+            startActivity(i);
+    }
 }

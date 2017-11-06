@@ -65,6 +65,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="15dp"
             android:text="Masuk"
+            android:onClick="klik1"
             android:textColor="@color/putih"
             android:id="@+id/btn_masuk"
             android:padding="12dp"
